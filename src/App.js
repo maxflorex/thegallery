@@ -10,6 +10,7 @@ import Navbar from './comp/Navbar';
 import Footer from './comp/Footer';
 
 function App() {
+
   return (
     <Router>
       <Navbar />
